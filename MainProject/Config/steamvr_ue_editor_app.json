@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.mainproject-10757647.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "//university.ds.derby.ac.uk/dfs/Student/Home/100438626/GitHub/GameDev/MainProject/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "U:/GitHub/GameDev/MainProject/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
